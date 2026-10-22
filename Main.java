@@ -5,5 +5,7 @@ public class Main {
         System.out.println("This Java application for Git.");
 
         System.out.println("Branch 2");
+
+        System.out.println("new - Branch 3");
     }
 }
